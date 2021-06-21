@@ -1,0 +1,20 @@
+package latihan1;
+
+/**
+ *
+ * @author Otong
+ */
+public class Latihan1 {
+
+
+    public static void main(String[] args) {
+        System.out.println("2000000");
+        System.out.println("800000");
+        System.out.println("10000");
+        System.out.println("9000");
+        System.out.println("100");
+        System.out.println("20");
+        System.out.println("9");
+    }
+    
+}
